@@ -1,0 +1,12 @@
+AverageR()
+AverageEquivMomenta()
+
+RecomputeDeltaM()
+ComputeZ()
+PlotZ("")
+
+ValChirExtrap()
+
+RecomputeDeltaM()
+ComputeZ()
+PlotZ("chir")

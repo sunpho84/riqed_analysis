@@ -1,0 +1,6 @@
+"th_ave/A"=AverageZ("sub/Am","sub/Ap")
+"th_ave/B"=AverageZ("sub/Bm","sub/Bp")
+"th_ave/C"=AverageZ("sub/Cm","sub/Cp")
+
+PlotZ("")
+

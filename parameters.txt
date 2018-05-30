@@ -1,0 +1,14 @@
+Action="Iwa"
+ExtrapolateTo0P2Range={1.0,3.0}
+ChirExtrMethod="MMes"
+FilterThresh=0.29
+UseQED=Yes
+AllocateImmediately=No
+AverageEquivMomentaImmediately=Yes
+AverageRImmediately=Yes
+ComputeDeltam=FromProp
+ComputeMesLep=Yes
+Scheme="RI_MOM"
+PrintEachMom=20
+NJacks=15
+BC="Periodic"
