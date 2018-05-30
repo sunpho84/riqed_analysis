@@ -1,6 +1,6 @@
 CombinedSeaChirExtrap(Using a = 0.44856 Extrapolate "sub/Am" = "sub/A1m" , "sub/A4m"
 	   	      Using a = 0.44856 Extrapolate "sub/Ap" = "sub/A1p" , "sub/A4p"
-		      Using a = 0.41322 Extrapolate "sub/Bm" = "sub/B1m" , "sub/B3m" , "sub/B4m" , "sub/B7m" , "sub/B7m" , "sub/B8m"
+		      Using a = 0.41322 Extrapolate "sub/Bm" = "sub/B1m" , "sub/B2m" , "sub/B3m" , "sub/B4m" , "sub/B7m" , "sub/B7m" , "sub/B8m"
 	   	      Using a = 0.41322 Extrapolate "sub/Bp" = "sub/B1p" , "sub/B2p" , "sub/B3p" , "sub/B4p" , "sub/B7p" , "sub/B7p" , "sub/B8p"
 		      Using a = 0.31348 Extrapolate "sub/Cm" = "sub/C2m" , "sub/C3m" , "sub/C4m" , "sub/C5m"
 		      Using a = 0.31348 Extrapolate "sub/Cp" = "sub/C2p" , "sub/C3p" , "sub/C4p" , "sub/C5p")
