@@ -1,0 +1,19 @@
+ChirExtrMethod="MMes"
+FilterThresh=0.29
+UseQED=Yes
+Scheme="RI_MOM"
+ComputeDeltaM=FromProp
+ComputeMesLep=Yes
+PrintEachMom=100
+NJacks=15
+BC="Periodic"
+
+Ensembles = {"."}
+
+ComputeOrLoadIngredients()
+
+AverageEquivMomenta()
+ComputeZ()
+PlotZ("")
+
+WriteCheckPoint()
